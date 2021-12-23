@@ -15,5 +15,5 @@
   (\ |)   '---'   (| /)      contacts
    ` (|           |) `       ========
      \)           (/         Email ~ "viniciusmendes1019@gmail.com"
-                               Reddit ~ "u/Hekamyah"
+                             Reddit ~ "u/Hekamyah"
 ```
