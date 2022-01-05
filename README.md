@@ -9,7 +9,7 @@
             (                yabamiah@brazil
              )               ===============
             (                Uptime ~ "18 years"
-     /\  .-"""-.  /\         OS ~ "Arch Linux"
+     /\  .-"""-.  /\         OS ~ "Void Linux"
     //\\/  ,,,  \//\\        Languages ~ "C/C++, Rust, TypeScript"
     |/\| ,;;;;;, |/\|        DE ~ "BSPWM"
     //\\\;-"""-;///\\        Shell ~ "Zsh"
