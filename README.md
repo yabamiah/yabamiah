@@ -1,3 +1,8 @@
+### I'm Vinícius  :thought_balloon:
+
+- I'm currently interested in Distributed Systems, Software Developer, FOSS and XBPS.
+- I'm learning about C/C++, Rust and TypeScript.
+
 ```
 ❯ kinfetch
         
@@ -5,7 +10,7 @@
              )               ===============
             (                Uptime ~ "18 years"
      /\  .-"""-.  /\         OS ~ "Arch Linux"
-    //\\/  ,,,  \//\\        Languages ~ "C, C++, Rust"
+    //\\/  ,,,  \//\\        Languages ~ "C/C++, Rust, TypeScript"
     |/\| ,;;;;;, |/\|        DE ~ "BSPWM"
     //\\\;-"""-;///\\        Shell ~ "Zsh"
    //  \/   .   \/  \\       Terminal ~ "Kitty"
