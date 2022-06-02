@@ -1,4 +1,4 @@
-### I'm Vinícius <a><img height="30" alt="pfp" src="https://raw.githubusercontent.com/quintenvandamme/quintenvandamme/main/badges/src/mona-loading/mona-loading-dark.gif" />
+### I'm Vinícius <a><img height="30" width="30" alt="pfp" src="https://raw.githubusercontent.com/quintenvandamme/quintenvandamme/main/badges/src/mona-loading/mona-loading-dark.gif" />
 
 - I'm currently interested in Distributed Systems, Software Developer, FOSS and XBPS.
 - I'm learning about C/C++, Rust and Python.
