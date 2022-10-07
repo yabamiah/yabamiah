@@ -9,7 +9,8 @@ Team i work: <a href="https://eletronjun.com.br/">@EletronJun</a>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yabamiah&exclude_repo=github-readme-stats,yabamiah.github.io&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=yabamiah&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yabamiah&layout=compact&exclude_repo=yabamiah.github.io&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ```
