@@ -34,5 +34,4 @@ yabamiah:~$ fetchme
                             ├─ Instagram ~ yabamiah
                             └─ Telegram ~ https://t.me/y4b4mai4h
 ```
-[![@yabamiah's Holopin board](https://holopin.me/yabamiah)](https://holopin.io/@yabamiah)
 
