@@ -13,6 +13,8 @@ Team i work: <a href="https://eletronjun.com.br/">@EletronJun</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yabamiah&layout=compact&exclude_repo=yabamiah.github.io&theme=rose_pine&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<h3>
+
 ```
 yabamiah:~$ fetchme
 
@@ -34,5 +36,7 @@ yabamiah:~$ fetchme
                             ├─ Instagram ~ yabamiah
                             └─ Telegram ~ https://t.me/y4b4mai4h
 ```
+
+</h3>
 [![@yabamiah's Holopin board](https://holopin.me/yabamiah)](https://holopin.io/@yabamiah)
 
