@@ -2,10 +2,7 @@
 
 My name is Vinícius Mendes aka Yabamiah. I'm 20 years old and i'm currently focused on my Software Engineering degree at College of Gama of University of Brasilia's. 
 
-I love Linux, free open-source software, CLI, TUI, ASCII arts and customizing my development environment and i'm learning about C/C#/C++, Python, Rust, Go and Shell.
-
-Team i work: <a href="https://eletronjun.com.br/">@EletronJun</a>
-
+I love Linux, free open-source software, Computer Vision, CLI, ASCII arts and customizing my development environment and i'm learning about C/C++, Python, Rust, Go and Shell.
 
 <div align="center">
 
@@ -23,7 +20,7 @@ yabamiah:~$ fetchme
             )               │
            (                ├─ Uptime ~ 19years
     /\  .-"""-.  /\         ├─ OS ~ Void Linux
-   //\\/  ,,,  \//\\        ├─ Languages ~ C/C#/C++, Go, Python, Shell
+   //\\/  ,,,  \//\\        ├─ Languages ~ C/C++, Go, Python, Shell
    |/\| ,;;;;;, |/\|        ├─ DE ~ BSPWM/XFCE
    //\\\;-"""-;///\\        ├─ Shell ~ zsh
   //  \/   .   \/  \\       ├─ Terminal ~ Kitty
