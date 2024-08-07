@@ -1,6 +1,6 @@
 ### I'm Yaba <a><img height="30" width="30" alt="pfp" src="https://raw.githubusercontent.com/quintenvandamme/quintenvandamme/main/badges/src/mona-loading/mona-loading-dark.gif" />
 
-My name is Vinícius Mendes aka Yabamiah. I'm 20 years old and i'm currently focused on my Software Engineering degree at College of Gama of University of Brasilia's. 
+My name is Vinícius Mendes aka Yabamiah. I'm 21 years old and i'm currently focused on my Software Engineering degree at College of Gama of University of Brasilia's. 
 
 I love Linux, free open-source software, Computer Vision, CLI, ASCII arts and customizing my development environment and i'm learning about C/C++, Python, Rust, Go and Shell.
 
@@ -18,7 +18,7 @@ yabamiah:~$ fetchme
 
            (                .  ViníciusMendes@brazil
             )               │
-           (                ├─ Uptime ~ 19years
+           (                ├─ Uptime ~ 21years
     /\  .-"""-.  /\         ├─ OS ~ Void Linux
    //\\/  ,,,  \//\\        ├─ Languages ~ C/C++, Go, Python, Shell
    |/\| ,;;;;;, |/\|        ├─ DE ~ BSPWM/XFCE
